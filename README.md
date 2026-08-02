@@ -306,7 +306,7 @@ Values read directly from production files (LAS header, IFC header, projection d
 | Projection | Scale factor · origin latitude | 0.999625769 · 33.3° N |
 | Projection | X₀ · Y₀ · central meridian | 500,000 · 300,000 m · −5.4° |
 | Projection | Reference ellipsoid | Clarke 1880 (IGN) |
-| Point cloud | Points in working extract | 633,946 |
+| Point cloud | Points in working extract | 112633,946 |
 | Point cloud | Coverage | 852 × 954 m — 81.3 ha |
 | Point cloud | Format · production chain | LAS 1.4 COPC · PDAL 2.9.0 |
 | IFC model | Schema of delivered file | IFC4X3_ADD2 |
